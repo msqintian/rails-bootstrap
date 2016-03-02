@@ -44,3 +44,34 @@ section {
   @extend .row;
   margin-top: 20px;
   }
+
+.bs-docs-header {
+  margin-bottom: 40px;
+}
+
+.bs-docs-sidebar {
+  margin-top: 40px;
+
+  .nav>.active>a {
+    padding-left: 18px;
+  }
+
+  .nav>li>a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 13px;
+  }
+
+  .nav .nav>li>a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+}
+
+
+
+>>>>>>> a939520... initial commit
