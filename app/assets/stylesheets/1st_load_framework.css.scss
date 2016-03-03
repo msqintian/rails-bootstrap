@@ -1,6 +1,9 @@
+
+@import "bootswatch/journal/variables";
 // import the CSS framework
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "bootswatch/journal/bootswatch";
 
 // make all images responsive by default
 img {

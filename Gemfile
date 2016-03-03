@@ -16,6 +16,7 @@ group :development do
   gem 'spring'
 end
 gem 'bootstrap-sass'
+gem 'bootswatch-rails'
 gem 'high_voltage'
 group :development do
   gem 'better_errors'
